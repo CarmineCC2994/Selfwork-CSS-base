@@ -1,0 +1,118 @@
+
+.style{
+    height: 200px;
+    width: 200px;
+    
+    
+}
+
+
+
+h1{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+p{
+    background-color: rgb(228, 119, 17);
+    font-family: "Source Serif 4", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    
+    
+    
+}
+
+
+article{
+    min-height:250px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 0 auto;  
+    
+    
+    
+}
+
+
+h2{
+    color: yellow;
+    
+}
+
+.color{
+    color: brown;
+    
+}
+
+#purple{
+    color: rgb(4, 52, 14);  
+}
+
+
+img {
+    width: 70px;
+    height: 70px;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(231, 231, 109);
+    
+}
+
+.genovese {
+    
+    width: 150px;
+    height: 150px;
+    
+}
+
+.gateau {
+    
+    width: 150px;
+    height: 150px;
+    
+}
+
+.lardiata {
+    
+    width: 150px;
+    height: 150px;
+    
+}
+
+
+footer {
+    
+    margin-top: 20px;
+}
+
+.box{
+    width: 300px;
+    background-color: brown;
+    transition: 2s;
+    
+}
+
+.box:hover{
+    width: 270px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    
+}
+
+.backgroundimage{
+    
+    background-image: url('./images.png');
+    background-repeat: no-repeat;
+    background-position-x: 400px;
+    background-position-y: 800px;
+    
+}
